@@ -9,7 +9,7 @@
   --text-color-third: #8B2332;
   --first-color: #DE5C8E;
   --first-color-hover: #fd8eadff;
-  --second-color: #fa4616;
+  --second-color: #DE5C8E;
   --third-color: rgb(192, 166, 49);
   --first-shadow-color: rgba(0, 0, 0, 0.1);
 }
@@ -1057,3 +1057,4 @@ footer {
     display: none;
   }
 }
+
